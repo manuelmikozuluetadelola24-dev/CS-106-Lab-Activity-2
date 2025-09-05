@@ -1,0 +1,1 @@
+console.log("Wait a minute, this isn't Java.")
